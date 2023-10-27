@@ -50,7 +50,10 @@ body {
     display: none;
   }
 
-
+.yt {
+  display: flex;
+  justify-content: center;
+}
 
 /* Column container */
 .row {  
